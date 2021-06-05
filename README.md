@@ -1,5 +1,5 @@
 # Docker Node Example
-This is a simple example for running a Node.js Server with Docker. 
+This is a simple example app for running a Node.js Server with Docker. 
 
 ## Build
 ```
