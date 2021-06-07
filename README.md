@@ -1,4 +1,4 @@
-# Docker Node Example
+# Docker Node JS Example App
 This is a simple app for running a Node.js Server with Docker. 
 
 ## Build
